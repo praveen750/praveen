@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+git practice
+=======
+subbi updated
+>>>>>>> 14a9179e8365e1d9bbf94f29e1a332faa4cb4305
+
+
 git practice
