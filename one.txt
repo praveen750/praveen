@@ -7,4 +7,11 @@ subbi updated
 
 git practice
 
+<<<<<<< HEAD
 pravenn fetch
+=======
+Learing Fetch
+>>>>>>> 9d097cf48079a3d1a50fefcce21ef6dc8be76800 learding pull and push
+
+
+learning pull and push
