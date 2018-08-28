@@ -1,1 +1,2 @@
-learding pull and push in three file
+learding pull and push in three file ---- now i am making changes and pushing it to git repository 
+
